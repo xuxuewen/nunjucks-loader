@@ -1,0 +1,21 @@
+{
+  "name": "njk-loader",
+  "version": "1.0.0",
+  "description": "nunjucks template loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nunjucks",
+    "nunjucks-loader",
+    "webpack-loader"
+  ],
+  "author": "xuxuewen <xxw.code@aliyun.com>",
+  "license": "MIT",
+  "dependencies": {
+    "es6-templates": "^0.2.3",
+    "loader-utils": "^1.1.0",
+    "nunjucks": "^3.0.1"
+  }
+}
